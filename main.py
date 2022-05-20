@@ -48,7 +48,7 @@ def creat_frame(nsstatus, nstime, ewtime):
         font_type = ImageFont.truetype(font, 54)
         draw.text((535, 364), str(nstime), font=font_type, fill=green)
         #东西路口红灯
-        frame.paste(ewg, (209, 648))
+        frame.paste(ewr, (209, 648))
         ewt = creat_ewtime(nsstatus, ewtime)
         frame.paste(ewt, (196, 703))
 
@@ -64,7 +64,7 @@ def creat_frame(nsstatus, nstime, ewtime):
         font_type = ImageFont.truetype(font, 54)
         draw.text((535, 364), str(nstime), font=font_type, fill=green)
         # 东西路口红灯
-        frame.paste(ewg, (209, 648))
+        frame.paste(ewr, (209, 648))
         ewt = creat_ewtime(nsstatus, ewtime)
         frame.paste(ewt, (196, 703))
 

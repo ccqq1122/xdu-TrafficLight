@@ -45,11 +45,12 @@
    
 
    <h1 align="center">
-       <img src="https://media.giphy.com/media/r0l8n8u8CnkHuDtqqm/giphy.gif" alt="XDU-tlsc" width="720">
+       <img src="https://media.giphy.com/media/ED7vgf1krif6Awk1Sn/giphy.gif" alt="XDU-tlsc" width="480">
    </h1>
 
    
 
+   
    
 
  
